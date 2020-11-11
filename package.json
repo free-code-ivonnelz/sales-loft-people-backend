@@ -1,0 +1,22 @@
+{
+  "name": "sl-people-backend",
+  "version": "1.0.0",
+  "description": "basic api",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/free-code-ivonnelz/sales-loft-people-backend.git"
+  },
+  "author": "ivonnelopezgonzalez71@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/free-code-ivonnelz/sales-loft-people-backend/issues"
+  },
+  "homepage": "https://github.com/free-code-ivonnelz/sales-loft-people-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
